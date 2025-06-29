@@ -1,0 +1,14 @@
+# Entorno virtual
+env/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Archivos específicos de Visual Studio Code
+.vscode/
+
+# Si tu carpeta 'Dataset' es muy grande (más de 100MB), considera ignorarla
+# o usar Git L
+Dataset/
